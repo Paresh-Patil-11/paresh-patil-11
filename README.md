@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Paresh</h1>
 <h3 align="left">      About Me</h3>
+<img align="right"alt"coding"width="400"src"[https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
+
+- 🔭 I’m B.Tech computer science student and Graduate in 2025.
+
+- 🤝 Passionate about becoming a Python developer.
+
+- 🌱 Developing dynamic web solutions using the .NET/EF Core framework.
 
 
-- 🔭 **I’m B.Tech computer science student and Graduate in 2025.**
+- 👨‍💻 All of My Projects are available at [**My project**](https://github.com/Paresh-Patil-11?tab=repositories)
 
-- 🤝 **Passionate about becoming a Python developer.**
-
-- 🌱 **Developing dynamic web solutions using the .NET/EF Core framework.**
-
-
-- 👨‍💻 All of My Projects are available at [My project](https://github.com/Paresh-Patil-11?tab=repositories)
-
-- 📄 My Resume [https://drive.google.com/file/d/1QxD0LiPI4mvhgi23vnoGacrdPwq_Rzfg/view](https://drive.google.com/file/d/1QxD0LiPI4mvhgi23vnoGacrdPwq_Rzfg/view)
+- 📄 My Resume [**CV**](https://drive.google.com/file/d/1QxD0LiPI4mvhgi23vnoGacrdPwq_Rzfg/view)
 
 - 📫 How to reach me **patilpareshrcpit@gmail.com**
 
