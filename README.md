@@ -1,6 +1,7 @@
+<img align="right" alt="Python Package" width="400" src="https://tudip.com/wp-content/uploads/2020/06/Build_and_publish_your_own_Python_package_to_PyPi_library_website_changed-1900x600.png">
 <h1 align="center">Hi 👋, I'm Paresh</h1>
 <h3 align="left">      About Me</h3>
-<img align="right"alt"coding"width="400"src"[https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m B.Tech computer science student and Graduate in 2025.
 
@@ -15,10 +16,8 @@
 
 - 📫 How to reach me **patilpareshrcpit@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Coding Profiles:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pareshpatil11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pareshpatil11" height="30" width="40" /></a>
-<a href="https://instagram.com/paresh_.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paresh_.11" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/paresh_patil_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paresh_patil_11" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@paresh_patil_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@paresh_patil_11" height="30" width="40" /></a>
 </p>
@@ -31,3 +30,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paresh-patil-11&show_icons=true&locale=en" alt="paresh-patil-11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paresh-patil-11&" alt="paresh-patil-11" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pareshpatil11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pareshpatil11" height="30" width="40" /></a>
+<a href="https://instagram.com/paresh_.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paresh_.11" height="30" width="40" /></a>
