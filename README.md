@@ -7,7 +7,7 @@
     <p>- 🔭 I’m B.Tech computer science student and Graduate in 2025.</p>
     <p>- 🤝 Curiosity about becoming a Python developer.</p>
     <p>- 🌱 Developing dynamic web solutions using the Python-Django.</p>
-    <p>  👯 I’m solved around 100+ DSA problems on various platforms.</p>
+    <p>- 👯 I’m solved around 100+ DSA problems on various platforms.</p>
     <p>- 👨‍💻 All of My Projects are available at <a href="https://github.com/Paresh-Patil-11?tab=repositories" target="_blank"><strong>My project</strong></a></p>
     <p>- 📄 My Resume <a href="https://drive.google.com/file/d/1QxD0LiPI4mvhgi23vnoGacrdPwq_Rzfg/view" target="_blank"><strong>CV</strong></a></p>
     <p>- 📫 How to reach me <strong>patilpareshrcpit@gmail.com</strong></p>
