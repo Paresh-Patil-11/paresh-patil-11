@@ -45,6 +45,7 @@
 <div class="section">
     <h3>Connect with me:</h3>
     <p class="social-icons">
+	    <a href="https://x.com/pareshpatil_11" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linkedin" height="30" width="40" /></a>
         <a href="https://linkedin.com/in/pareshpatil11" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
         <a href="https://instagram.com/paresh_.11" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
     </p>
