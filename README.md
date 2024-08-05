@@ -11,6 +11,7 @@
     <p>- 👨‍💻 All of My Projects are available at <a href="https://github.com/Paresh-Patil-11?tab=repositories" target="_blank"><strong>My project</strong></a></p>
     <p>- 📄 My Resume <a href="https://drive.google.com/file/d/1QxD0LiPI4mvhgi23vnoGacrdPwq_Rzfg/view" target="_blank"><strong>CV</strong></a></p>
     <p>- 📫 How to reach me <strong>patilpareshrcpit@gmail.com</strong></p>
+	
 </div>
 <div class="section">
     <h3>Coding Profiles:</h3>
