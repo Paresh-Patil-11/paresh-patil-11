@@ -42,7 +42,6 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paresh-patil-11&" alt="paresh-patil-11" /></p>
     <hr>
 </div>
-
 <div class="section">
     <h3>Connect with me:</h3>
     <p class="social-icons">
