@@ -1,4 +1,3 @@
-   			
 
 <h1 align="center">Hi 👋, I'm Paresh</h1>
 <div class="intro">  
