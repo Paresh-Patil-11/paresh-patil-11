@@ -1,7 +1,7 @@
 <h1 align="center" style="position: relative; display: inline-block; overflow: hidden; white-space: nowrap; border-right: 3px solid orange; animation: typing 4s steps(30, end), blink-caret .75s step-end infinite;">
   Hi 👋, I'm Paresh
 </h1><h3 align="left">About Me</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg">
+<img align="right" alt="coding" width="380" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg">
 
 - 🔭 **I’m a B.Tech computer science student and Graduate in 2025.**
 - 💻 **Passionate about becoming a Python developer.**
