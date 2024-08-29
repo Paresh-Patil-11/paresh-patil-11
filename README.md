@@ -4,7 +4,7 @@
     <h3>About Me</h3> 
     <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
     <p>- 🔭 I’m B.Tech computer science student and Graduate in 2025.</p>
-    <p>- 🤝 Curiosity about becoming a Python developer.</p>
+    <p>- 🤝 Curiosity about becoming a Python developer.</p>                
     <p>- 🌱 Developing dynamic web solutions using the Python-Django.</p>
     <p>- 👯 I’m solved around 100+ DSA problems on various platforms.</p>
     <p>- 👨‍💻 All of My Projects are available at <a href="https://github.com/Paresh-Patil-11?tab=repositories" target="_blank"><strong>My project</strong></a></p>
