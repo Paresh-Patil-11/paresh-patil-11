@@ -1,4 +1,3 @@
-<br/>
 <h1 align="center">Hi 👋, I'm Paresh<span style="animation: blink-caret 1s step-end infinite;"></span></h1>
 <br/>
 
