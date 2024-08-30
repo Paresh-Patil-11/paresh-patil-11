@@ -1,9 +1,11 @@
 <h1 align="center" style="position: relative; display: inline-block; overflow: hidden; white-space: nowrap; border-right: 3px solid orange; animation: typing 4s steps(30, end), blink-caret .75s step-end infinite;">
   Hi 👋, I'm Paresh
 </h1>
-<h1 align="center" style="position: relative; display: inline-block; overflow: hidden; white-space: nowrap; border-right: 3px solid orange; animation: typing 4s steps(30, end), blink-caret .75s step-end infinite;">
-  Hi 👋, I'm Paresh
-</h1>
+<h3 align="center" style="position: relative; display: inline-block; overflow: hidden; white-space: nowrap; border-right: 3px solid orange; animation: typing 4s steps(30, end), blink-caret .75s step-end infinite;">
+  My Portfolio : https://paresh-patil-11.github.io/Paresh-Portfolio/
+  <br>
+   [My Resume](https://drive.google.com/file/d/1eAHKLw4dOyHmkW8-vyhDNSJc0wKjn4yq/view?usp=drive_link)
+</h3>
 
 <h3 align="left">About Me</h3>
 <img align="right" alt="coding" width="380" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg">
