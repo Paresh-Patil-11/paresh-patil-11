@@ -5,7 +5,7 @@
   My Portfolio : https://paresh-patil-11.github.io/Paresh-Portfolio/
 </h3>
 <br/>
-
+     
 <h3 align="left">About Me</h3>
 <img align="right" alt="coding" width="380" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg">
 
