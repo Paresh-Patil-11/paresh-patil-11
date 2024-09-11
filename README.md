@@ -3,7 +3,7 @@
      
 <h3 align="center" style="position: relative; display: inline-block; overflow: hidden; white-space: nowrap; border-right: 3px solid orange; animation: typing 4s steps(30, end), blink-caret .75s step-end infinite;">
   My Portfolio : https://paresh-patil-11.github.io/Paresh-Portfolio/
-</h3>
+</h3> 
 <br/>
      
 <h3 align="left">About Me</h3>
