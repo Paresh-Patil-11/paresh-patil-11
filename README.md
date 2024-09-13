@@ -13,7 +13,7 @@
 - 💻 **Passionate about becoming a Python developer.**
 - 🌱 Developing dynamic web solutions using Python-Django.
 
-- 👯 **I’ve solved around 300+ DSA problems on various platforms.**
+- 👯 **I’ve solved around 300+ DSA problems on various platforms.**  
 - 👨‍💻 All of My Projects are available at [My GitHub](https://github.com/Paresh-Patil-11?tab=repositories)
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1SSesY8HEH2aFt4Y3aKpk60BDd1wc9WgO/view?usp=drive_link)
 - 📩 Reach Out via Email patilpareshrcpit@gmail.com
