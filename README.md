@@ -5,6 +5,7 @@
 <img align="right" alt="coding" width="380" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg">
 
 - 🔭 **I’m a B.Tech computer science student and Graduate in 2025.**
+
 - 💻 **Passionate about becoming a Python developer.**
 - 👯 **I’ve solved around 300+ DSA problems on various platforms.**  
 - 👨‍💻 All of My Projects are available at [My GitHub](https://github.com/Paresh-Patil-11?tab=repositories)
