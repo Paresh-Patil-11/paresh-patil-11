@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paresh-patil-11&label=Profile%20views&color=0e75b6&style=flat" alt="paresh-patil-11" /> </p>
 
-<img align="right" alt="coding" width="380" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg" />
+<img align="right" alt="coding" width="360" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg" />
 
 <h3 align="left">About Me</h3>
 <ul>
