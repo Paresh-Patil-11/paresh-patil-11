@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Paresh</h1> 
-<h3 align="center">A passionate MERN developer from India</h3>
+
+<h1 align="center">HI 👋, I'M PARESH</h1> 
+<h2 align="center">A Passionate MERN Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paresh-patil-11&label=Profile%20views&color=0e75b6&style=flat" alt="paresh-patil-11" /> </p>
 
