@@ -1,28 +1,21 @@
-
 <h1 align="center">HI 👋, I'M PARESH</h1> 
-<h2 align="center">A Passionate MERN Developer From India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paresh-patil-11&label=Profile%20views&color=0e75b6&style=flat" alt="paresh-patil-11" /> </p>
+<h2 align="center" style="color: lightblue;">A Passionate MERN Developer From India</h2>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=paresh-patil-11&label=Profile%20views&color=0e75b6&style=flat" alt="paresh-patil-11" />
+</p>
 
 <img align="right" alt="coding" width="360" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg" />
 
-<h3 align="left">About Me</h3>
-<ul>
-  <li>🔭 <b>I’m a B.Tech computer science student and will graduate in 2025.</b></li>
-  
-  <li>👨‍💻 <b>Passionate about becoming a MERN developer.</b></li>
-  
-  <li>💻 <b>I’ve solved around 500+ DSA problems on various platforms.</b></li>
-  
-  <li>📄 <b>Check out my <a href="https://drive.google.com/file/d/1SSesY8HEH2aFt4Y3aKpk60BDd1wc9WgO/view" target="_blank">Resume</a></b></li>
-  
-  <li>📩 <b>Reach out via Email:</b> <a href="mailto:pareshpatil.rcpit@gmail.com">pareshpatil.rcpit@gmail.com</a></li>
-</ul>
+### About Me
+- 🔭 **I’m a B.Tech computer science student and will graduate in 2025.**
+- 👨‍💻 **Passionate about becoming a MERN developer.**
+- 💻 **I’ve solved around 500+ DSA problems on various platforms.**
+- 📄 **Check out my [Resume](https://drive.google.com/file/d/1SSesY8HEH2aFt4Y3aKpk60BDd1wc9WgO/view)**
+- 📩 **Reach out via Email:** [pareshpatil.rcpit@gmail.com](mailto:pareshpatil.rcpit@gmail.com)
 
+---
 
-<hr>
-
-<h3 align="left">👨‍💻 Coding Credentials :</h3>
+### 👨‍💻 Coding Credentials:
 <p align="left">
   <a href="https://www.leetcode.com/paresh_patil_11" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paresh_patil_11" height="30" width="40" />
@@ -38,9 +31,9 @@
   </a>
 </p>
 
-<hr>
+---
 
-<h3 align="left">🧩 Tech & Tools :</h3>
+### 🧩 Tech & Tools:
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -92,18 +85,18 @@
   </a>
 </p>
 
-<hr>
+---
 
-<h3 align="center">📊 GitHub Stats:</h3>
+### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paresh-patil-11&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400" style="margin: 10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=paresh-patil-11&theme=radical" alt="GitHub Streak" width="400" style="margin: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paresh-patil-11&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="300" style="margin: 10px;" />
 </p>
 
-<hr>
+---
 
-<h3 align="left">✨ Stay Connected :</h3>
+### ✨ Stay Connected:
 <p align="left">
   <a href="https://linkedin.com/in/pareshpatil11" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pareshpatil11" height="30" width="40" />
@@ -116,4 +109,5 @@
   </a>
 </p>
 
-<hr>
+---
+
