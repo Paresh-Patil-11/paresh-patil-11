@@ -94,7 +94,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paresh-patil-11&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="300" style="margin: 10px;" />
 </p>
 
----
 
 
 ---
