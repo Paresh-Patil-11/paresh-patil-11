@@ -10,7 +10,7 @@
 - 🔭 **I’m a B.Tech computer science student and will graduate in 2025.**
 - 👨‍💻 **Passionate about becoming a MERN developer.**
 - 💻 **I’ve solved around 500+ DSA problems on various platforms.**
-- 📄 **Check out my [Resume](https://drive.google.com/file/d/1SSesY8HEH2aFt4Y3aKpk60BDd1wc9WgO/view)**
+- 📄 **Check out my [Resume](https://drive.google.com/file/d/10V7Zoc9X2pLPLBb1aQ04-jY87kA5d7ks/view?usp=sharing)**
 - 📩 **Reach out via Email:** [pareshpatil.rcpit@gmail.com](mailto:pareshpatil.rcpit@gmail.com)
 
 ---
