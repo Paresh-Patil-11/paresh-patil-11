@@ -10,7 +10,7 @@
 - 🔭 **I’m a B.Tech computer science student and will graduate in 2025.**
 - 👨‍💻 **Passionate about becoming a Python developer.**
 - 💻 **I’ve solved around 400+ DSA problems on various platforms.**
-- 📄 **Check out my [Resume](https://drive.google.com/file/d/10V7Zoc9X2pLPLBb1aQ04-jY87kA5d7ks/view?usp=sharing)**
+- 📄 **Check out my [Resume](https://drive.google.com/file/d/145MdA9hYsFMAoweRQd_ak4N2ceznJGOs/view?usp=sharing)**
 - 📩 **Reach out via Email:** [pareshpatil.rcpit@gmail.com](mailto:pareshpatil.rcpit@gmail.com)
 
 ---
