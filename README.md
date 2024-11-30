@@ -1,5 +1,5 @@
 <h1 align="center">HI 👋, I'M PARESH</h1> 
-<h2 align="center" style="color: lightblue;">A Passionate Python Developer From India</h2>
+<h2 align="center" style="color: lightblue;">A Passionate MERN Stack Developer From India</h2>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=paresh-patil-11&label=Profile%20views&color=0e75b6&style=flat" alt="paresh-patil-11" />
 </p>
@@ -8,7 +8,7 @@
 
 ### About Me
 - 🔭 **I’m a B.Tech computer science student and will graduate in 2025.**
-- 👨‍💻 **Passionate about becoming a Python developer.**
+- 👨‍💻 **Passionate about becoming a MERN Stack developer.**
 - 💻 **I’ve solved around 400+ DSA problems on various platforms.**
 - 📄 **Check out my [Resume](https://drive.google.com/file/d/145MdA9hYsFMAoweRQd_ak4N2ceznJGOs/view?usp=sharing)**
 - 📩 **Reach out via Email:** [pareshpatil.rcpit@gmail.com](mailto:pareshpatil.rcpit@gmail.com)
