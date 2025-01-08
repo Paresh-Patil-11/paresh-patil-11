@@ -80,7 +80,12 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paresh-patil-11&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400" style="margin: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paresh-patil-11&theme=radical" alt="GitHub Streak" width="400" style="margin: 10px;" />
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=paresh-patil-11&theme=radical" 
+  alt="GitHub Streak Stats" 
+  width="400" 
+  style="margin: 10px;" 
+/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paresh-patil-11&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="300" style="margin: 10px;" />
 </p>
 
