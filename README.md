@@ -5,7 +5,7 @@
 </p>
 
 <img align="right" alt="coding" width="360" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg" />
-
+ 
 ### About Me
 - 🔭 **I’m a B.Tech computer science student and will graduate in 2025.**
 - 👨‍💻 **Passionate about becoming a MERN Stack developer.**
