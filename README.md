@@ -74,7 +74,15 @@
 
 
 ---
- 
+ ### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paresh-patil-11&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400" style="margin: 10px;" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paresh-patil-11&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="350" style="margin: 10px;" />
+</p>
+
+
+
 ---
 
 <h3 align="left">✨ Stay Connected:</h3>
